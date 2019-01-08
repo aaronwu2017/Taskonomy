@@ -119,6 +119,6 @@ def load_flower_data(path,type,pp=0.2):
 
     return Z_train, Z_test, y_train, y_test
 
-# load_taskonmy_data('/home/guhongyang/70870/dataset_taskonmy',type='autoencoder',pp=0.2)
-# load_data('/home/guhongyang/70870/dataset',pp=0.2)
-# load_flower_data('/home/guhongyang/70870/flowers',type='autoencoder')
+# load_taskonmy_data('/home//dataset_taskonmy',type='autoencoder',pp=0.2)
+# load_data('/home//dataset',pp=0.2)
+# load_flower_data('/home/flowers',type='autoencoder')
