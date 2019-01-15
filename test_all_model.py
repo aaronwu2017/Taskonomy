@@ -16,7 +16,7 @@ import glob as gb
 import cv2
 
 import os
-os.environ['CUDA_VISIBLE_DEVICES'] = '9'
+
 
 
 def encoder_(inputs):
