@@ -14,7 +14,7 @@ from keras.utils import to_categorical
 from keras.callbacks import Callback
 
 import os
-os.environ['CUDA_VISIBLE_DEVICES'] = '9'
+
 
 
 class Save_best(Callback):
