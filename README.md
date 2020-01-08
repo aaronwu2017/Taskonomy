@@ -5,3 +5,9 @@ Load_data.py is to process data<br />
 test_all_model can save loss in a CSV file<br />
 
 sample code to mass produce the representations: python  tools/run_img_task2.py --task class_1000 --input data/dataset/red_dress/names.txt  --output  data/dataset/red_dress/class_1000
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
